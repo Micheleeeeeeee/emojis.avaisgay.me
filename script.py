@@ -12,7 +12,7 @@
 from os import PathLike
 from pathlib import Path
 
-p = Path("emotes")
+p = Path("intj")
 
 
 
