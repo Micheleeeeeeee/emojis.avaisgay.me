@@ -1,493 +1,1670 @@
 {
-    "name": "Ava's Repo!",
-    "path": "emotes",
-    "emotes" : [
-        {
-            "name": "fbk_shake",
-            "type": ".gif"
-        },
-        {
-            "name": "4head",
-            "type":".png"
-        },
-
-        {
-            "name": "AYAYABlush",
-            "type":".png"
-        },
-
-        {
-            "name":"200IQ",
-            "type":".gif"
-        },
-        {
-            "name":"AliveChat",
-            "type":".pngpng"
-        },
-        {
-            "name": "Angerycry",
-            "type": ".pngpng"
-        },
-        {
-            "name": "AngeryBob",
-            "type": ".pngpng"
-        },
-        {
-            "name": "AniPats",
-            "type": ".png"
-        },
-        {
-            "name": "AnnoyingPing",
-            "type":".gif"
-        },
-        {
-            "name": "BLM_Heart",
-            "type": ".png"
-        },
-        {
-            "name": "BLM_pride_heart",
-            "type": ".png"
-        },
-        {
-            "name": "BanHammer",
-            "type": ".png"
-        },
-        {
-            "name": "BellSip",
-            "type": ".png"
-        },
-        {
-            "name": "BellThink",
-            "type": ".png"
-        },
-        {
-            "name": "fr",
-            "type": ".png"
-        },
-        {
-            "name": "woeisme",
-            "type": ".png"
-        },
-        {
-            "name": "woeisfruhh",
-            "type": ".png"
-        },
-        {
-            "name": "fruhh",
-            "type": ".png"
-        },
-        {
-            "name": "uhh",
-            "type": ".png"
-        },
-        {
-            "name": "hugs",
-            "type": ".png"
-        },
-        {
-            "name": "hug",
-            "type": ".png"
-        },
-        {
-            "name": "intjpray",
-            "type": ".png"
-        },
-        {
-            "name": "floshed",
-            "type": ".png"
-        },
-        {
-            "name": "flosh",
-            "type": ".png"
-        },
-        {
-            "name": "BellThink",
-            "type": ".png"
-        },
-        {
-            "name": "BellSip",
-            "type": ".png"
-        },
-        {
-            "name": "BanHammer",
-            "type": ".png"
-        },
-        {
-            "name": "BigHui3",
-            "type": ".png"
-        },
-        {
-            "name": "BirdTrans",
-            "type": ".png"
-        },
-        {
-            "name": "BlinkingEyes",
-            "type": ".gif"
-        },
-        {
-            "name": "Boi",
-            "type": ".gif"
-        },
-        {
-            "name": "BlueLemonade",
-            "type": ".png"
-        },
-        {
-            "name": "CatCrying",
-            "type": ".png"
-        },
-        {
-            "name": "CoolBreeze",
-            "type": ".png"
-        },
-        {
-            "name": "FrogAww",
-            "type": ".png"
-        },
-        {
-            "name": "Hug",
-            "type": ".png"
-        },
-        {
-            "name": "Hug2",
-            "type": ".png"
-        },
-        {
-            "name": "Hug3",
-            "type": ".png"
-        },
-        {
-            "name": "Hug1",
-            "type": ".png"
-        },
-        {
-            "name": "hugs",
-            "type": ".png"
-        },
-        {
-            "name": "goshimgay",
-            "type": ".png"
-        },
-        {
-            "name": "floshgif",
-            "type": ".gif"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        },
-        {
-            "name": "name",
-            "type": ".png"
-        }
-        
-    ]
+  "name": "Ava's Repo!",
+  "path": "emotes",
+  "emotes": [
+    {
+      "name": "fbk_shake",
+      "type": ".gif"
+    },
+    {
+        "copy": "copymikuwave.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copysus.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copywaluigi.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copyUnpog.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyBigYui3.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copylesbian_heart.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyNoice.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copytrue.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copysendlove.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyreinhardt.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copysmash.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copynoeta.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyshrug.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyagender.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyslap.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copyNekoPats.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyWatameHeadbang.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copyDVAThinker.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyPenguinMoppingFloor.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copytracer.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copySpamPressFToPayRespects.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copyahah.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyWumpusPanic.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copyCrystalTrans.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copyshreksophone.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copyWavingHand.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copycielupset.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyaugustus.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copysparklegir.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copylucio.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyomegalul.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyHug.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyProcursus.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyWut.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copykannapat2.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyfuckingl.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyGayDance.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copykannaYay.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copylesbian.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copykakashi.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyHugCatgirl.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copywtf.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyjerryhappy.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copycri.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copypats.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copydoomfist.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copytimlaugh.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyGHIDRA.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copywhatisthis.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copystable.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyno.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyplugwalk.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copyvoid.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copy.DS_Store",
+        "type": ".png"
+    },
+    {
+        "copy": "copyAYAYABlush.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copytaurine.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyhanzo.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyyui.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyobamium.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copyamogusdance.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copyBlinkingEyes.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copyPikachuDab.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copyfruhh.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyDogDancing.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copynooogif.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copyPeepWide.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyCrabRave.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copyTransComf.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copytoddCoward.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copySopPeek.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copysadparty.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyPatPatPat.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copyGayOwO.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copybigbrain.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copygrandmaster.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copySugarFree.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyu0trash.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copysussileo.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyoh.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyfloshed.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copywoeisuhh.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyOceanicBlue.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyhayden~1.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copysleep.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyCatCrying.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copytorbjorn.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyCottonCandy.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyPrideHeart.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copydfcjjgesbjoyfvnkirsxvj.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyyay.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyenbeam.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copydva.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copytrolllaugh.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyintjangry.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copytrans_dino.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copygirnyoom.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copymei.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copywois.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copycielshock.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyDell.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copypepeRules.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyfoon.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyPenguinTakingPicture.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copybronze.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyAngerycry.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copymodchecking.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copydoremi.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copypeperain.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copytroll.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyace_heart.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyBoi.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copyummm.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyduplicate.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyperhaps.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copysymmetra.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyvanillablush.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copySadGay.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copypeepoclown.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copySystemFlag.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copytipping.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyJaskier.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyYeetusDeletusDance.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copyVERYCONCERNED.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyshrek_sip.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copywobble.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copytrans_heart.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyaah.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copymaster.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copypepeuhh.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copyOhImGay.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copygay.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copylumatrans.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyuhhsweat.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyBirdTrans.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyimportant.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyuhh.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyCoolBreeze.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyGuraA.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copyHandsClapping.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copyelectra.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copytroll~1.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copynonbinary.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyorisa.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copypepeFBI.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyFingergunsEnby.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copybsddoe.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyOwO.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyfloshgif.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copydannythink.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyfunwaa.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copytotinos_takis.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyzimlaugh.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copyintjstare.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyLuma.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyMangoCrazy.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyarrow.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyGoodOne.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyelutrash.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyShinjiPeek.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyMimikyuHeadpats.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copylinux.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copycielhappy.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copypalpatine.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copywhy.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copythisisnothowitis.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyEmoAndProud.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyHappyJerry.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copycielno.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copypensivebread.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyloading.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copysippers.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyagender_heart.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copySpongeSmirk.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyBellThink.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copySiren.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copygoshimgay.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copygirsupernyoom.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copyDVAwave.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copymccree.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copysex.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyPepeJedi.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copyDeadChat.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyana.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copystevebless.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copynfr.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyyes.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyGeraltThink.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copykekw.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copykannapat.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyHug3.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copykannaBearHeart.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copytimgrin.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyHug2.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyhugs.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyno~1.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyadolfus.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyrainbow_dance.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copyAngryBob.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyfr.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyzimwut.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copygenji.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copygirded.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copylaughclap.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copymonkaH.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copypopcorn.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copyfacepalm.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyLLLLL.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copygayelmo.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copyjerrysad.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copycolombus.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copymichaelsmile.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copypeeps.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copysternchendva.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyCuteHug.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copywholesome.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyzerotwohype.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copyNightly.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copygir.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copyKannaRise.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copypeperun.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copyoncelerfast2.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copyVeryNice.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyhels.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyprecision.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyMikuHeart.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyhayden.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copytest.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copygeraltkirby.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copymiku_dance.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copyragecry.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copySadCat.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copySoonTM.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyPogChomp.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copytop500.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copysileo.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copypingedPong.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copy200IQ.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copyawkwardflushed.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copyBLM_Heart.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyyayy.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copysoldier_76.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyHE_HAS_RISEN.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copySolasPucker.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copykannaBearLove.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copysleepykannapat.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copyKannaWave.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copyintjpray.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copypepeworriedsip.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copyPensiveball.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyayeaye.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyGayPat.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copystfuhayden.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copykannaexcited.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copyGiggle.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copyclean.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copysilver.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copypogyou.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copythonk.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyPepeTOS.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copyskeletondancefast.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copywinston.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyPognimated.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copydead.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyCrystalAce.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copychimera.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyodyssey.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyPensiveBell.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copycowbking.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copycrunchywatame.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copyping.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyBlueLemonade.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copySpinThinking.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copytrans.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyKaworuOK.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copySolasMegaPucker.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyBellSip.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyHypeHugs.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copyGirWalk.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copySadJerry.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyhalf.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyapplerollingeyes.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyPogFish.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copytranscat.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyshut.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyhmmm.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyPorygonYay.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copythisfuckingcat.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copyitishowitis.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyIdkAndIdc.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copyroadhog.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copypog.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copy4head.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyYikesTM.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copymorshu.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copybych.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyElonLOL.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyStrawberrySunset.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyspree.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copycozy.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyHeadpats.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyguyfieriHISLUCIOUSFROSTEDSPIKES.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyretweet.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copythumpsdown.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copypanbeam.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copytream.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copydiamond.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyUWOT.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copycielbashful.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyBLM_pride_heart.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copythistbh.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copystfuketo.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copycornhusker_man.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyhugdino.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyDrPhilGivesYouTheL.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copybruh.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copybiam.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyLovinItEmo.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copyworisfr.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyakek.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyWazowski.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copykissing_FBE2.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copyShakingUrl.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copydvaXD.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyamogus.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyFrogAww.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyreaper.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyfeelscoronaman.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyAnnoyingPing.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copyzenyatta.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyhangingout.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copyfalsefalse.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyOG.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copylmao.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copymercy.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copycatty.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyzimtumble.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copyzarya.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copypeek.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyDisfiguredHappyJerry.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copywreckingball.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copywoeisme.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copySadTrans.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copythishowitis.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyNog.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyzimextralaugh.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copythumbs_up.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copyKaworuGun.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyEmojis_Project_Manticore.zip",
+        "type": ".png"
+    },
+    {
+        "copy": "copyupgeraldo.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyfroggy.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copylumagay.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copypharah.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copydowngeraldo.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copypensivecowboy.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyshrekbruh.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copypan_heart.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyeyes_sus.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyPenguinWalking.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copyjunkrat.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyShrug~1.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copytranshugs.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copywoeisfruhh.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copythis.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copypwn20wnd.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copyLoveManticore.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyManticore.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyHeartEnby.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copysombra.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copygirdancefloor.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copysipstea.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copywoecry.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copypepenou.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copyAliveChat.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copynfrwoe.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copytwerkos.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copyPrius2.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyconcerned.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyAniPats.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copypensive_cowbread.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copygenderfluid.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyimage0.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copywhat.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyFingergunsMasc.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copySnailPride.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyheartblush.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copywidowmaker.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copymioCRY.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copylibhooker.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copydecrypta.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copycompletelydistraught.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copylesbeam.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copybastion.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyrainbowgir.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copylul.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copybing.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copydanny.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyPleaseHelp.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copybi_heart.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copypUwu.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyDVAwow.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyPrius1.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copygold.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copywah.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyPatrix.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copytruetrue.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyplatinum.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyFingergunsFem.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyNOOyoucanjust.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyyou_tried.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copygay_heart.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copydibrun.gif",
+        "type": ".gif"
+    },
+    {
+        "copy": "copyBanHammer.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copytoddgun.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copymoira.png",
+        "type": ".png"
+    },
+    {
+        "copy": "copyanemone.png",
+        "type": ".png"
+    }
+  ]
 }
