@@ -38,7 +38,7 @@ for name in p.glob("*"):
     file.write("""
         """)
     copy.replace('emotes/', '')
-    file.write("\"copy\": \"" + copy + '",')
+    file.write("\"name\": \"" + copy + '",')
     file.write("""
         """)
 
