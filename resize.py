@@ -13,4 +13,3 @@ def resizeimage(path):
 
         image = image.resize((48, 48), Image.ANTIALIAS)
         image.save(fp=path)
-        image.save(fp=path)

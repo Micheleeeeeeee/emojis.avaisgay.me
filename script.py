@@ -35,6 +35,11 @@ append to the end of the document.:
 def solve_for_index(file):
     global file_name
     for name in file.glob("*"):
+
+        if '.png' not in str(name):
+            if '.gif' not in str(name):
+                continue
+
         file = open(file_name, 'a')
 
         # if 'png' not in str(name):
