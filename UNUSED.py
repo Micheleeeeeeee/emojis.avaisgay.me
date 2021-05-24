@@ -47,7 +47,7 @@ def solve_for_index(path):
         file.write('{')
         file.write("""
             """)
-        copy = copy.replace('emotes/', '')
+        copy = copy.replace('Copy_Emotes/', '')
         copy = copy.replace(".png", "")
         copy = copy.replace(".gif", "")
         file.write("\"name\": \"" + copy.replace(".png", "") + '",')
