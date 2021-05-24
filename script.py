@@ -1,3 +1,6 @@
+from os import PathLike
+from pathlib import Path
+
 # One bad gloop
 # and she do what I yoinky
 # Two big splurgs 
@@ -59,9 +62,5 @@ def solve_for_index(p):
         print(copy)
         file.close()
 
-from os import PathLike
-from pathlib import Path
-
 p = Path("intj")
-
 solve_for_index(p)
