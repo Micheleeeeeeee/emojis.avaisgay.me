@@ -1,5 +1,6 @@
 from pathlib import Path
 import resize
+from PIL import Image
 
 # One bad gloop
 # and she do what I yoinky
@@ -19,6 +20,10 @@ import resize
 # ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 # OTHER DEALINGS IN THE SOFTWARE.
 
+p = Path("emotes")
+for name in p.glob("*"):
+    image = Image.open(str(name))
+    print(image.size)
 
 file_name = str(input("""
 Please input the file name. 
