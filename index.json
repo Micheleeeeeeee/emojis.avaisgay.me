@@ -2393,6 +2393,154 @@
     {
         "name": "racialslurs",
         "type": ".png"
-    }
+    },
+      {
+            "name": "facepalm",
+            "type": ".gif"
+        },
+        {
+            "name": "delet",
+            "type": ".png"
+        },
+        {
+            "name": "slap",
+            "type": ".gif"
+        },
+        {
+            "name": "accuse",
+            "type": ".gif"
+        },
+        {
+            "name": "dead",
+            "type": ".gif"
+        },
+        {
+            "name": "catsip",
+            "type": ".png"
+        },
+        {
+            "name": "cataya",
+            "type": ".png"
+        },
+        {
+            "name": "julessleeping",
+            "type": ".png"
+        },
+        {
+            "name": "venting",
+            "type": ".gif"
+        },
+        {
+            "name": "catf",
+            "type": ".png"
+        },
+        {
+            "name": "ejected",
+            "type": ".gif"
+        },
+        {
+            "name": "catd",
+            "type": ".png"
+        },
+        {
+            "name": "catclassy",
+            "type": ".png"
+        },
+        {
+            "name": "buttonpress",
+            "type": ".gif"
+        },
+        {
+            "name": "funrun",
+            "type": ".gif"
+        },
+        {
+            "name": "AmongusChungus",
+            "type": ".png"
+        },
+        {
+            "name": "catthinking",
+            "type": ".gif"
+        },
+        {
+            "name": "cathappy",
+            "type": ".png"
+        },
+        {
+            "name": "catshrug",
+            "type": ".png"
+        },
+        {
+            "name": "totally_an_eggplant",
+            "type": ".png"
+        },
+        {
+            "name": "sus",
+            "type": ".gif"
+        },
+        {
+            "name": "catshooting",
+            "type": ".gif"
+        },
+        {
+            "name": "cardswipe",
+            "type": ".gif"
+        },
+        {
+            "name": "pizzaface",
+            "type": ".gif"
+        },
+        {
+            "name": "longboi",
+            "type": ".png"
+        },
+        {
+            "name": "report~1",
+            "type": ".gif"
+        },
+        {
+            "name": "catsad",
+            "type": ".png"
+        },
+        {
+            "name": "emoji_29night",
+            "type": ".png"
+        },
+        {
+            "name": "catflipping",
+            "type": ".gif"
+        },
+        {
+            "name": "craig",
+            "type": ".png"
+        },
+        {
+            "name": "catping",
+            "type": ".png"
+        },
+        {
+            "name": "catthink",
+            "type": ".png"
+        },
+        {
+            "name": "catmute",
+            "type": ".png"
+        },
+        {
+            "name": "catpat",
+            "type": ".png"
+        },
+        {
+            "name": "longboi1",
+            "type": ".png"
+        },
+        {
+            "name": "report",
+            "type": ".png"
+        },
+        {
+            "name": "longboi3",
+            "type": ".png"
+        }
   ]
 }

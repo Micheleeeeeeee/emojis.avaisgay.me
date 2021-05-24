@@ -80,7 +80,7 @@ def solve_for_index(path):
 #             solve(new_p)
 
 
-p = Path("")
+p = Path("emoji/Emojis_bread_cats_cat_corner")
 solve_for_index(p)
 
 print("Successfully written json file with name:", file_name)
