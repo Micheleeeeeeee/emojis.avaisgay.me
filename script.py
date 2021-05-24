@@ -20,10 +20,10 @@ from PIL import Image
 # ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 # OTHER DEALINGS IN THE SOFTWARE.
 
-p = Path("emotes")
-for name in p.glob("*"):
-    image = Image.open(str(name))
-    print(image.size)
+# p = Path("emotes")
+# for name in p.glob("*"):
+#     image = Image.open(str(name))
+#     print(image.size)
 
 file_name = str(input("""
 Please input the file name. 
