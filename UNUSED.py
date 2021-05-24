@@ -3,7 +3,7 @@ from pathlib import Path
 
 # One bad gloop
 # and she do what I yoinky
-# Two big splurgs
+# Two big splurgs 
 # and a big ass gloopy
 # Three more yoinks
 # then I buy me a smoothie
@@ -19,26 +19,23 @@ from pathlib import Path
 # ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 # OTHER DEALINGS IN THE SOFTWARE.
 
-
-file_name = str(input("""
-Please input the file name. 
-Please note, if this file already exists the program will 
-append to the end of the document.:
-"""))
+file_name = str(input("Please input json output name: (Leave blank for input.json)"))
 
 
-def solve_for_index(file):
+def solve_for_index(path):
     global file_name
-    for name in file.glob("*"):
+    for name in path.glob("*"):
+
+        if file_name == '':
+            file_name = 'index.json'
+
         file = open(file_name, 'a')
 
         file.write("""
         """)
+
         copy = str(name)
         copy = copy.replace(str(p), "")
-
-
-        print(copy, "is being used currently...")
 
         is_gif = copy.endswith('.gif')
 
@@ -66,29 +63,24 @@ def solve_for_index(file):
 
         file.write("},")
 
-        print(copy)
+        print("Successfuly wrote", copy, "to", file_name)
         file.close()
 
 
-def solve(p):
-    for name in p.glob("*"):
-        if '.' not in str(name):
-            new_p = Path(str(name))
-            # print(str(name))
-            # print(str(new_p))
-            solve_for_index(new_p)
-            solve(new_p)
+# def solve(path):
+#     for name in path.glob("*"):
+#         #if '.png' and '.gif' not in str(name):
+#          #   print(False)
+#         #else:
+#             new_p = Path(str(name))
+#             print(str(name))
+#             print(str(new_p))
+#
+#             solve_for_index(p)
+#             solve(new_p)
 
 
 p = Path("")
-# solve_for_index(p)
-solve(p)
+solve_for_index(p)
 
-
-print("""
-
-
-""")
-
-
-print("The operation completed successfully, and was saved to:", file_name)
+print("Successfully written json file with name:", file_name)
