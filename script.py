@@ -11,6 +11,7 @@ from PIL import Image
 # Poured up a gloop
 # that's a gloop and a splurgy
 
+# Developed by Ava!
 
 # THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
 # EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
@@ -31,6 +32,18 @@ Please note, if this file already exists the program will
 append to the end of the document.:
 """))
 
+destruction_mode = bool(input("""
+Would you like to enable UNSAFE mode?
+This allows you to have the emotes path not one folder,
+named emotes/ to remove from the image name.
+This will ONLY WORK if there is only one folder,
+such as emojis/, or images/.
+This will NOT WORK if you have a path like emojis/images/.
+
+True: Enable
+False: Disable 
+Case Sensitive
+"""))
 
 def solve_for_index(file):
     global file_name
@@ -66,7 +79,16 @@ def solve_for_index(file):
         file.write('{')
         file.write("""
             """)
-        copy = copy.replace('emotes/', '')
+
+        path_to_img = ''
+
+        # if destruction_mode:
+        #     for i in range(str(len(copy))):
+        #         if copy[i] != '/':
+        #             path_to_img += copy[i]
+
+
+        copy = copy.replace(path_to_img, '')
         copy = copy.replace(".png", "")
         copy = copy.replace(".gif", "")
         file.write("\"name\": \"" + copy.replace(".png", "") + '",')
@@ -104,7 +126,7 @@ def solve(p):
             solve(new_p)
 
 
-p = Path("")
+p = Path("Emojis_rJailbreak")
 # solve_for_index(p)
 solve(p)
 
