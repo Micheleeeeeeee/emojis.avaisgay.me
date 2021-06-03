@@ -117,6 +117,7 @@ def solve_for_index(file):
 
 
 def solve(p):
+    solve_for_index(p)
     for name in p.glob("*"):
         if '.' not in str(name):
             new_p = Path(str(name))
@@ -126,7 +127,7 @@ def solve(p):
             solve(new_p)
 
 
-p = Path("Emojis_rJailbreak")
+p = Path("testt")
 # solve_for_index(p)
 solve(p)
 
